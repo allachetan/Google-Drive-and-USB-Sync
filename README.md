@@ -7,7 +7,7 @@ Installation:
 
 Usage:
 - Run the jar file
-- Selcet the USB Directory
+- Select the USB Directory
 - Enter the Google Drive folder id. This is found in the url of the google drive folder drive.google.com/drive/u/0/folders/{folder id}.
 - If necessary the program will ask you to sign in to google. (It should automatically open a browser for you to login)
 - Hit Sync and it will download neccessary files to stay in sync with the google drive folder.
